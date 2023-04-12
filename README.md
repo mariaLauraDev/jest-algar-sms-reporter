@@ -39,7 +39,7 @@ module.exports = {
 
 ## Result
 
-<div align="center">
+<div align="left">
   <img height="600"
     src="./assets/result.jpeg">
 </div>
