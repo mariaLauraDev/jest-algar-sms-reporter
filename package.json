@@ -1,0 +1,29 @@
+{
+  "name": "jest-algar-sms-reporter",
+  "version": "1.0.0",
+  "author": {
+    "name": "Maria Laura",
+    "email": "marialauradev@gmail.com",
+    "url": "https://github.com/mariaLauraDev"
+  },
+  "description": "A dependency that sends the test results in jest to sms.",
+  "keywords": [
+    "jest",
+    "sms",
+    "algar",
+    "reporter"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaLauraDev/jest-algar-sms-reporter.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariaLauraDev/jest-algar-sms-reporter/issues"
+  },
+  "homepage": "https://github.com/mariaLauraDev/jest-algar-sms-reporter#readme",
+  "dependencies": {
+    "strip-ansi": "^7.0.1"
+  }
+}
