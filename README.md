@@ -1,6 +1,11 @@
 <div align="center">
   <img height="200"
     src="./assets/logo.png">
+    <p align="center"> 
+      <img src="https://img.shields.io/npm/v/jest-algar-sms-reporter?style=flat-square">
+      <img src="https://img.shields.io/npm/dm/jest-algar-sms-reporter?style=flat-square">
+      <img src="https://img.shields.io/travis/com/hargne/jest-algar-sms-reporter?style=flat-square">
+    </p>
   <p>A dependency that sends the test results in jest to sms via Algar sms to your phone!</p>
 </div>
 
